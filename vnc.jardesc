@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/bakemono/Projects/workspace/portal/core/static/vz/rdp/VncViewer.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/VanilaVNC/vnc.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{VncViewer.java[VncViewer" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/VanilaVNC/MANIFEST.MF"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{RfbProto.java"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{AuthPanel.java"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{ZlibInStream.java"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{ReloginPanel.java"/>
+        <file path="/VanilaVNC/src/com/tightvnc/vncviewer/LICENCE.TXT"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{InStream.java"/>
+        <file path="/VanilaVNC/.classpath"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{RecordingFrame.java"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{ButtonPanel.java"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{HTTPConnectSocket.java"/>
+        <file path="/VanilaVNC/Makefile"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{ClipboardFrame.java"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{CapabilityInfo.java"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{MemInStream.java"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{OptionsFrame.java"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{VncCanvas.java"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{DesCipher.java"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{CapsContainer.java"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{VncCanvas2.java"/>
+        <file path="/VanilaVNC/.project"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{HTTPConnectSocketFactory.java"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{VncViewer.java"/>
+        <file path="/VanilaVNC/src/com/tightvnc/vncviewer/README"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{SessionRecorder.java"/>
+        <javaElement handleIdentifier="=VanilaVNC/src&lt;com.tightvnc.vncviewer{SocketFactory.java"/>
+    </selectedElements>
+    <fatjar builder="org.eclipse.jdt.ui.plain_jar_builder" launchConfig=""/>
+</jardesc>
